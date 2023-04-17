@@ -12,8 +12,8 @@
 en: &DEFAULT_EN
   header:
     title: 1
-    text: 2
-    button: 3
+    text: 23
+    button: 456
     buttonlink: "#services"
 
   services:
